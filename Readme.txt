@@ -13,7 +13,7 @@ a new customer based on the data provided and the parameters.
 
 Number Of Observations: 1338
 
-Age	   - Age of the customer
+Age	 - Age of the customer
 BMI     - Body mass index
 Sex     - Gender of the customer
 Smoker  - Does the customer smoke or not
